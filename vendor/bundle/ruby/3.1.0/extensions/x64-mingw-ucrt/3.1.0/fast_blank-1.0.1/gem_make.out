@@ -1,0 +1,16 @@
+current directory: C:/Users/pedro.asseiro/Desktop/WorkSpace/slate/vendor/bundle/ruby/3.1.0/gems/fast_blank-1.0.1/ext/fast_blank
+C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: C:/Users/pedro.asseiro/Desktop/WorkSpace/slate/vendor/bundle/ruby/3.1.0/gems/fast_blank-1.0.1/ext/fast_blank
+make DESTDIR\= sitearchdir\=./.gem.20220908-21628-ap8pb2 sitelibdir\=./.gem.20220908-21628-ap8pb2 clean
+
+current directory: C:/Users/pedro.asseiro/Desktop/WorkSpace/slate/vendor/bundle/ruby/3.1.0/gems/fast_blank-1.0.1/ext/fast_blank
+make DESTDIR\= sitearchdir\=./.gem.20220908-21628-ap8pb2 sitelibdir\=./.gem.20220908-21628-ap8pb2
+generating fast_blank-x64-mingw-ucrt.def
+compiling fast_blank.c
+linking shared-object fast_blank.so
+
+current directory: C:/Users/pedro.asseiro/Desktop/WorkSpace/slate/vendor/bundle/ruby/3.1.0/gems/fast_blank-1.0.1/ext/fast_blank
+make DESTDIR\= sitearchdir\=./.gem.20220908-21628-ap8pb2 sitelibdir\=./.gem.20220908-21628-ap8pb2 install
+/usr/bin/install -c -m 0755 fast_blank.so ./.gem.20220908-21628-ap8pb2
